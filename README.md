@@ -2,7 +2,8 @@
 
 `Software & Automation Developer`
 
-Software developer with hands-on experience building data automation pipelines and Power BI dashboards for commercial performance tracking at GOL Linhas Aéreas, consolidating sales data and KPIs across systems handling large daily volumes. Skilled in Python, Java, JavaScript, and SQL, with practical exposure to Azure, Azure Databricks, and AWS cloud environments. Currently developing Yuno, a personal AI and automation platform exploring service integration, modular architecture, and applied AI, while completing a degree in Software Analysis & Development.
+Software developer with hands-on experience building data automation pipelines and Power BI dashboards for commercial performance tracking at GOL Linhas Aéreas, consolidating sales data and KPI's across systems handling large daily volumes. Skilled in Python, Java, JavaScript, SQL, React, C and PHP with practical exposure to Azure, Azure Databricks, and AWS cloud environments. Currently developing Yuno, a personal AI and automation platform exploring service integration, modular architecture, and applied AI, while completing a degree in Software Analysis & Development.
+
 
 ---
 
