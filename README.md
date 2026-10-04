@@ -1,12 +1,11 @@
-carlo@github ~ $ ./contributions.sh
+# Carlos Sena
 
-[ mapa de contribuições do GitHub animado, revelando os quadradinhos ]
+`Software & Automation Developer`
 
-carlo@github ~ $ whoami
+Software developer with hands-on experience building data automation pipelines and Power BI dashboards for commercial performance tracking at GOL Linhas Aéreas, consolidating sales data and KPI's across systems handling large daily volumes. Skilled in Python, Java, JavaScript, SQL, React, C and PHP with practical exposure to Azure, Azure Databricks, and AWS cloud environments. Currently developing Yuno, a personal AI and automation platform exploring service integration, modular architecture, and applied AI, while completing a degree in Software Analysis & Development.
 
-[ retrato seu em ASCII animado ]   [ card estilo neofetch ]
-                                  Name: Carlo
-                                  Role: ...
-                                  Stack: ...
-                                  Now: ...
-                                  Highlights: ...
+
+---
+
+### 🧰 Languages and Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker"/> <img src="https://img.icons8.com/fluency/40/github.png" height="40" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native"/> </p>
