@@ -1,37 +1,26 @@
 
 <div align="left">
 
-
-
 <img
   src="https://raw.githubusercontent.com/Sena295/Sena295/37955095f2fc91f60c22024522974af0c610cf99/Yuno.icon.jpg"
   width="100"
   alt="Carlos Sena Logo"
 />
 
-
-
 <h1>Carlos Sena</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=E11D2E&center=true&vCenter=true&width=520&lines=Software+%26+Automation+Developer;Data+Automation+%7C+AI+%7C+Cloud" alt="Software & Automation Developer"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=E11D2E&center=false&vCenter=true&width=520&lines=Software+%26+Automation+Developer;Data+Automation+%7C+AI+%7C+Cloud"
+  alt="Software & Automation Developer"
+/>
 
 </div>
 
 ---
 
-### About Me
-
-Software developer with hands-on experience building data automation pipelines and Power BI dashboards for commercial performance tracking at GOL Linhas Aéreas, consolidating sales data and KPIs across systems handling large daily volumes.
-
-Skilled in Python, Java, JavaScript, SQL, React, C and PHP with practical exposure to Azure, Azure Databricks, and AWS cloud environments.
-
-Currently developing Yuno, a personal AI and automation platform exploring service integration, modular architecture, and applied AI, while completing a degree in Software Analysis & Development.
-
----
-
 ### Languages and Tools
 
-<div align="center">
+<div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git"/>
@@ -47,6 +36,16 @@ Currently developing Yuno, a personal AI and automation platform exploring servi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
 
 </div>
+
+---
+
+### About Me
+
+Software developer with hands-on experience building data automation pipelines and Power BI dashboards for commercial performance tracking at GOL Linhas Aéreas, consolidating sales data and KPIs across systems handling large daily volumes.
+
+Skilled in Python, Java, JavaScript, SQL, React, C and PHP with practical exposure to Azure, Azure Databricks, and AWS cloud environments.
+
+Currently developing Yuno, a personal AI and automation platform exploring service integration, modular architecture, and applied AI, while completing a degree in Software Analysis & Development.
 
 ---
 
