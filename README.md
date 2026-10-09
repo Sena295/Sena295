@@ -1,12 +1,11 @@
-# Carlos Sena
 
 <div align="center">
 
-<img src="./assets/yuno-logo.png" width="85" alt="Carlos Sena Logo"/>
+<img src="./yuno-logo.jpg" width="90" alt="Carlos Sena Logo"/>
 
-<br>
+<h1>Carlos Sena</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=26&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+%26+Automation+Developer;Data+Automation+%7C+AI+%7C+Cloud" alt="Software and Automation Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=E11D2E&center=true&vCenter=true&width=520&lines=Software+%26+Automation+Developer;Data+Automation+%7C+AI+%7C+Cloud" alt="Software & Automation Developer"/>
 
 </div>
 
@@ -24,12 +23,13 @@ Currently developing Yuno, a personal AI and automation platform exploring servi
 
 ### Languages and Tools
 
-<p align="center">
+<div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38" alt="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="38" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub"/>
+<img src="https://img.icons8.com/fluency/40/github.png" height="38" alt="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS"/>
@@ -37,7 +37,8 @@ Currently developing Yuno, a personal AI and automation platform exploring servi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="SQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
-</p>
+
+</div>
 
 ---
 
@@ -46,10 +47,20 @@ Currently developing Yuno, a personal AI and automation platform exploring servi
 <div align="center">
 
 <a href="https://github.com/Sena295">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sena295&show_icons=true&bg_color=080808&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E&border_color=333333&hide_border=false&rank_icon=github" alt="GitHub Statistics"/>
+<img
+  width="48%"
+  align="top"
+  src="https://github-readme-stats.vercel.app/api?username=Sena295&show_icons=true&bg_color=0D0D0D&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E&border_color=333333&hide_border=false&rank_icon=github"
+  alt="GitHub Statistics"
+/>
 </a>
-<a href="https://github.com/Sena295">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sena295&layout=compact&bg_color=080808&title_color=E11D2E&text_color=FFFFFF&border_color=333333&hide_border=false&langs_count=8" alt="Most Used Languages"/>
+<a href="https://github.com/Sena295?tab=repositories">
+<img
+  width="48%"
+  align="top"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sena295&layout=compact&bg_color=0D0D0D&title_color=E11D2E&text_color=FFFFFF&border_color=333333&hide_border=false&langs_count=8&card_width=420"
+  alt="Most Used Languages"
+/>
 </a>
 
 </div>
