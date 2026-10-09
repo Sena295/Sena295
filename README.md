@@ -1,7 +1,13 @@
 
 <div align="center">
 
-<img src="./yuno-logo.jpg" width="90" alt="Carlos Sena Logo"/>
+
+<img
+  src="https://raw.githubusercontent.com/Sena295/Sena295/main/yuno-logo.jpg"
+  width="90"
+  alt="Carlos Sena Logo"
+/>
+
 
 <h1>Carlos Sena</h1>
 
