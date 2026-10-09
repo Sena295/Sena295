@@ -1,12 +1,4 @@
 
-<div align="left">
-
-<img
-  src="https://raw.githubusercontent.com/Sena295/Sena295/37955095f2fc91f60c22024522974af0c610cf99/Yuno.icon.jpg"
-  width="100"
-  alt="Carlos Sena Logo"
-/>
-
 <h1>Carlos Sena</h1>
 
 <img
