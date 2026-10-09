@@ -21,7 +21,7 @@ Software developer with hands-on experience building data automation pipelines a
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sena295&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"
     alt="Most Used Languages"
   />
 </div>
