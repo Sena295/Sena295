@@ -72,10 +72,3 @@ Currently developing Yuno, a personal AI and automation platform exploring servi
 
 </div>
 
----
-
-<div align="center">
-
-<sub>CARLOS SENA · SOFTWARE DEVELOPMENT · AUTOMATION · AI</sub>
-
-</div>
