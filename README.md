@@ -16,7 +16,7 @@ Software developer with hands-on experience building data automation pipelines a
 <div align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Sena295&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
     alt="GitHub Statistics"
   />
   <img
