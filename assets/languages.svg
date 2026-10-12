@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170" role="img" aria-labelledby="t">
+<title id="t">Most Used Languages</title>
+<style>
+  .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #E11D2E; }
+  .lang { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #FFFFFF; }
+</style>
+<rect x="0.5" y="0.5" width="419" height="169" rx="4.5" fill="#0D0D0D" stroke="#333333"/>
+<text x="25" y="35" class="title">Most Used Languages</text>
+<clipPath id="bar"><rect x="0" y="0" width="370" height="8" rx="5"/></clipPath>
+<g transform="translate(25,55)" clip-path="url(#bar)"><rect x="0.00" y="0" width="330.05" height="8" fill="#e34c26"/><rect x="330.05" y="0" width="26.24" height="8" fill="#3572A5"/><rect x="356.29" y="0" width="6.72" height="8" fill="#355570"/><rect x="363.01" y="0" width="5.48" height="8" fill="#f1e05a"/><rect x="368.49" y="0" width="1.51" height="8" fill="#663399"/></g>
+<g transform="translate(25,92)"><circle cx="5" cy="-4" r="5" fill="#e34c26"/><text x="17" y="0" class="lang">HTML 89.20%</text></g><g transform="translate(25,117)"><circle cx="5" cy="-4" r="5" fill="#3572A5"/><text x="17" y="0" class="lang">Python 7.09%</text></g><g transform="translate(25,142)"><circle cx="5" cy="-4" r="5" fill="#355570"/><text x="17" y="0" class="lang">GDScript 1.82%</text></g><g transform="translate(210,92)"><circle cx="5" cy="-4" r="5" fill="#f1e05a"/><text x="17" y="0" class="lang">JavaScript 1.48%</text></g><g transform="translate(210,117)"><circle cx="5" cy="-4" r="5" fill="#663399"/><text x="17" y="0" class="lang">CSS 0.41%</text></g>
+</svg>
