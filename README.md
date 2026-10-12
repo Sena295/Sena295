@@ -47,7 +47,7 @@ Currently developing Yuno, a personal AI and automation platform exploring servi
 
 <a href="https://github.com/Sena295">
 <img
-  width="48%"
+  width="49%"
   align="top"
   src="https://github-readme-stats.vercel.app/api?username=Sena295&show_icons=true&bg_color=0D0D0D&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E&border_color=333333&hide_border=false&rank_icon=github"
   alt="GitHub Statistics"
@@ -55,7 +55,7 @@ Currently developing Yuno, a personal AI and automation platform exploring servi
 </a>
 <a href="https://github.com/Sena295?tab=repositories">
 <img
-  width="48%"
+  width="49%"
   align="top"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sena295&layout=compact&bg_color=0D0D0D&title_color=E11D2E&text_color=FFFFFF&border_color=333333&hide_border=false&langs_count=8&card_width=420"
   alt="Most Used Languages"
