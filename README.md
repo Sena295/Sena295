@@ -57,7 +57,7 @@ Currently developing Yuno, a personal AI and automation platform exploring servi
 <img
   width="49%"
   align="top"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sena295&layout=compact&bg_color=0D0D0D&title_color=E11D2E&text_color=FFFFFF&border_color=333333&hide_border=false&langs_count=8&card_width=420"
+  src="assets/languages.svg"
   alt="Most Used Languages"
 />
 </a>
