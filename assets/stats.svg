@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195" role="img" aria-labelledby="t">
+<title id="t">GitHub Statistics</title>
+<style>
+  .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #E11D2E; }
+  .value { font: 600 20px 'Segoe UI', Ubuntu, sans-serif; fill: #FFFFFF; }
+  .label { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #9CA3AF; }
+</style>
+<rect x="0.5" y="0.5" width="419" height="194" rx="4.5" fill="#0D0D0D" stroke="#333333"/>
+<text x="25" y="35" class="title">GitHub Statistics</text>
+<text x="25" y="80" class="value">9</text><text x="25" y="96" class="label">Public Repos</text>
+<text x="210" y="80" class="value">6</text><text x="210" y="96" class="label">Total Stars</text>
+<text x="25" y="124" class="value">89</text><text x="25" y="140" class="label">Total Commits</text>
+<text x="210" y="124" class="value">0</text><text x="210" y="140" class="label">Pull Requests</text>
+<text x="25" y="168" class="value">0</text><text x="25" y="184" class="label">Issues</text>
+<text x="210" y="168" class="value">34</text><text x="210" y="184" class="label">Followers</text>
+</svg>

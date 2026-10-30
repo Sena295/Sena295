@@ -1,8 +1,9 @@
+<div align="center">
 
 <h1>Carlos Sena</h1>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=E11D2E&center=false&vCenter=true&width=520&lines=Software+%26+Automation+Developer;Data+Automation+%7C+AI+%7C+Cloud"
+  src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=E11D2E&center=true&vCenter=true&width=520&lines=Software+%26+Automation+Developer;Data+Automation+%7C+AI+%7C+Cloud"
   alt="Software & Automation Developer"
 />
 
@@ -49,7 +50,7 @@ Currently developing Yuno, a personal AI and automation platform exploring servi
 <img
   width="49%"
   align="top"
-  src="https://github-readme-stats.vercel.app/api?username=Sena295&show_icons=true&bg_color=0D0D0D&title_color=E11D2E&text_color=FFFFFF&icon_color=E11D2E&border_color=333333&hide_border=false&rank_icon=github"
+  src="assets/stats.svg"
   alt="GitHub Statistics"
 />
 </a>
@@ -63,4 +64,3 @@ Currently developing Yuno, a personal AI and automation platform exploring servi
 </a>
 
 </div>
-

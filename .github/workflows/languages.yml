@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - '.github/scripts/languages.mjs'
+      - '.github/scripts/stats.mjs'
       - '.github/workflows/languages.yml'
 
 permissions:
@@ -24,9 +25,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Gerar card de estatísticas
+        run: node .github/scripts/stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
       - name: Salvar se mudou
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/languages.svg
-          git diff --cached --quiet || (git commit -m "Atualiza card de linguagens" && git push)
+          git add assets/languages.svg assets/stats.svg
+          git diff --cached --quiet || (git commit -m "Atualiza cards do perfil" && git push)
