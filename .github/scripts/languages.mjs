@@ -54,7 +54,7 @@ for (const l of ranked) l.percent = (l.weight / total) * 100;
 // Layout compacto: título, barra única e legenda em duas colunas
 const W = 420, PAD = 25, BAR_W = W - PAD * 2;
 const rows = Math.ceil(ranked.length / 2);
-const H = Math.max(195, 95 + rows * 25);  // mesma altura do card de estatísticas
+const H = 95 + rows * 25;
 let x = 0;
 const bar = ranked.map(l => {
   const w = (l.percent / 100) * BAR_W;

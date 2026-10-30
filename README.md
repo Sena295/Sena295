@@ -1,9 +1,7 @@
-<div align="center">
-
 <h1>Carlos Sena</h1>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=E11D2E&center=true&vCenter=true&width=520&lines=Software+%26+Automation+Developer;Data+Automation+%7C+AI+%7C+Cloud"
+  src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=E11D2E&center=false&vCenter=true&width=520&lines=Software+%26+Automation+Developer;Data+Automation+%7C+AI+%7C+Cloud"
   alt="Software & Automation Developer"
 />
 
