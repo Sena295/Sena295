@@ -34,7 +34,7 @@
 
 Software developer with hands-on experience building data automation pipelines and Power BI dashboards for commercial performance tracking at GOL Linhas Aéreas, consolidating sales data and KPIs across systems handling large daily volumes.
 
-Skilled in Python, Java, TypeScript, JavaScript, SQL, React, C and PHP with practical exposure to Azure Databricks, and AWS cloud environments. Study projects in [devlab-toolkit](https://github.com/Sena295/devlab-toolkit) cover REST APIs, JWT authentication, a custom interpreter, graph algorithms, a key-value store and a real-time chat server (all with fictitious data and automated tests).
+Skilled in Python, Java, TypeScript, JavaScript, SQL, React, C and PHP with practical exposure to Azure Databricks, and AWS cloud environments. Study projects in [devlab-toolkit](https://github.com/Sena295/devlab-toolkit) cover REST APIs, JWT authentication, a custom interpreter (TinyLang), graph algorithms in Java, a TypeScript schema-validation library, a key-value store and a real-time chat server, all with fictitious data, automated tests and CI.
 
 Currently developing Yuno, a personal AI and automation platform exploring service integration, modular architecture, and applied AI, while completing a degree in Software Analysis & Development.
 
